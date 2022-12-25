@@ -19,18 +19,18 @@
 <p>
 <h3 align="left">Languages and Tools:</h3>
 
-[![](https://skillicons.dev/icons?i=vscode,visualstudio&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)](https://skillicons.dev)
 <img src="./perforce-ar21.svg" alt="perforce" width="50" height="50"/>
-[![](https://skillicons.dev/icons?i=git,github,githubactions&theme=light)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=cs,py,tensorflow&theme=light)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> 
+[![](https://skillicons.dev/icons?i=git,github,githubactions&theme=dark)](https://skillicons.dev)
+<img src="./dvc-svgrepo-com.svg" alt="jira" width="50" height="50"/>
+[![](https://skillicons.dev/icons?i=cs,py,tensorflow&theme=dark)](https://skillicons.dev)
+<img src="./pandas.png" alt="pandas" width="50" height="50"/>
+<img src="./scikit-learn.svg" alt="scikit_learn" width="50" height="50"/> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-[![](https://skillicons.dev/icons?i=sqlite,cassandra,mysql&theme=light)](https://skillicons.dev)
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
+[![](https://skillicons.dev/icons?i=sqlite,cassandra,mysql&theme=dark)](https://skillicons.dev)
+<img src="./sql_server.png" alt="mssql" width="50" height="50"/>
 <img src="./atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
-[![](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 <img src="./excel.svg" alt="excel" width="50" height="50"/>
 </p>
 
