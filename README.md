@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smitha Upadhyaya</h1>
 <h3 align="center">
-	A Software Developer with 11 year of professional experience from Surat, Gujarat. I was working as Lead Software Developer and worked on desktop application that would automate the task of SAP transaction.
+	A Software Developer with 11 year of work experience from Surat, Gujarat. I was working as Lead Software Developer and worked on desktop application that would automate the task of SAP transaction.
 	Currenlty am learning Machine Learning and wish to work as Data Scientist.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://blog.digitalogy.co/wp-content/uploads/2019/03/Machine-Learning.gif">
