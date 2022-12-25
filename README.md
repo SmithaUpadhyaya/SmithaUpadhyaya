@@ -3,8 +3,6 @@
 	A Software Developer with 11 year of work experience from Surat, Gujarat. I was working as Lead Software Developer and worked on desktop application that would automate the task of SAP transaction.
 	Currenlty am learning Machine Learning and wish to work as Data Scientist.
 </h3>
-<img align="right" alt="Coding" width="400" src="https://blog.digitalogy.co/wp-content/uploads/2019/03/Machine-Learning.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smithaupadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="smithaupadhyaya" /> </p>
 
