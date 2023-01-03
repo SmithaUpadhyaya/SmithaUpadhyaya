@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Smitha Upadhyaya :woman: </h1>
 <h3 align="center">
-	A Software Developer with 11 year of work experience from Surat, Gujarat. I was working as Lead Software Developer and worked on desktop application that automated the task of <b>SAP</b> transaction.
-	Currenlty am learning Machine Learning and wish to work as Data Scientist.
+	10+ year professional experience as software developer from Surat, Gujarat. Fast learner and eager to explore new technologies. Believer in agile software development, team work and clean code. Currenlty am learning Machine Learning and want to take up a role as Data Scientist.</br>
+		
 </h3>
 <img align="bottom" src="https://komarev.com/ghpvc/?username=smithaupadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="smithaupadhyaya" />
 <a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
 <img align = "right" src="./giphy.gif" width="480" height="270" />
 </a>
 
-- 💼💻👨‍💻 Previous job have worked on desktop applications, windows service, SAP (TX/BAPI/DE/GUI) modules, devxpress winForm controls.
+- 💼💻👨‍💻 Previous job have worked on desktop applications, windows service, SAP (TX/BAPI/DE/GUI) modules, devxpress winform controls. Last project worked on was desktop application that automated the task of <b>SAP</b> transaction.
 - 💬 Ask me about **SQL Query, C#, Excel**
 - 👨‍💻 Fashion recommendation system is my first project in ML. You can find my projects here 
 - 👯 I’m looking to collaborate on open source.
