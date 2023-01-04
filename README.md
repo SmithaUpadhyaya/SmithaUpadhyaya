@@ -10,7 +10,7 @@
 
 - 💼💻👨‍💻 Previous job have worked on desktop applications, windows service, SAP (TX/BAPI/DE/GUI) modules, devxpress winform controls. Last project worked on was desktop application that automated the task of <b>SAP</b> transaction.
 - 💬 Ask me about **SQL Query, C#, Excel**
-- 👨‍💻 Fashion recommendation system is my first project in ML. You can find my projects here 
+- 👨‍💻 Fashion recommendation system is my first project in ML. You can find my projects <a target="_blank" href="https://github.com/SmithaUpadhyaya/fashion_recommendation_system"> here </a>
 - 👯 I’m looking to collaborate on open source.
 - ⚡ Fun Fact: I love chocolate:chocolate_bar::yum:, trying new dish:woman_cook: for family:family: and gardening 👩‍🌾🤲🌱🌷🌿.
 </br>
