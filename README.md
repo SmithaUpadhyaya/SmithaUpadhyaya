@@ -9,7 +9,7 @@
 </a>
 
 - 💼💻👨‍💻 Previous job have worked on desktop applications, windows service, SAP (TX/BAPI/DE/GUI) modules, devxpress winform controls. Last project worked on was desktop application that automated the task of <b>SAP</b> transaction.
-- 💬 Ask me about **SQL Query, C#, Excel**
+- 💬 Ask me about **SQL Query, C#, Add-in for Excel**
 - 👨‍💻 Fashion recommendation system is my first project in ML. You can find my projects <a target="_blank" href="https://github.com/SmithaUpadhyaya/fashion_recommendation_system"> here </a>
 - 👯 I’m looking to collaborate on open source.
 - ⚡ Fun Fact: I love chocolate:chocolate_bar::yum:, trying new dish:woman_cook: for family:family: and gardening 👩‍🌾🤲🌱🌷🌿.
@@ -42,10 +42,11 @@
 	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> 
 </a> 
 <img src="./excel.svg" alt="excel" width="50" height="50"/>
-
+</br>
 Microsoft SQL Server,Pandas icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 </p>
 <p> 
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smithaupadhyaya&show_icons=true&locale=en&layout=compact" alt="smithaupadhyaya" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=smithaupadhyaya&" alt="smithaupadhyaya" />
 </br>
@@ -55,9 +56,8 @@ Microsoft SQL Server,Pandas icon by <a target="_blank" href="https://icons8.com"
 </br>
 </br>
 </p>
-
+-->
 <p align="left">
-</br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_profile" height="25" width="25" />
 </a>
