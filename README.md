@@ -22,6 +22,9 @@
 [![](https://skillicons.dev/icons?i=git,github,githubactions&theme=dark)](https://skillicons.dev)
 <img src="./dvc-svgrepo-com.svg" alt="jira" width="50" height="50"/>
 [![](https://skillicons.dev/icons?i=cs,py,tensorflow&theme=dark)](https://skillicons.dev)
+<a href="https://commons.wikimedia.org/wiki/File:Keras_logo.svg" target="_blank" rel="noreferrer"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="50" height="50"/> 
+</a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> 
 </a> 
@@ -31,7 +34,7 @@
 </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> 
-</a> 
+</a>  
 <a target="_blank" href="https://icons8.com/icon/xSkewUSqtErH/pandas">
 	<img src="./pandas-original.svg" alt="pandas" width="50" height="50"/>
 </a>
